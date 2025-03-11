@@ -4,7 +4,6 @@ I'm **Gakuru Alex**, an aspiring Python developer on a **365-day coding challeng
 
 ## 🔥 GitHub Streak
 
-##![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GakuruAlex)
 [![GitHub Streak](https://github-readme-streak-stats-tawny-six.vercel.app?user=GakuruAlex&theme=dark)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
