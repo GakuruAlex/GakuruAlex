@@ -4,11 +4,11 @@ I'm **Gakuru Alex**, an aspiring Python developer on a **365-day coding challeng
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats-tawny-six.vercel.app?user=GakuruAlex&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-tawny-six.vercel.app?user=GakuruAlex&theme=red)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=red)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=dark)
 
 ## 🛠️ Tech Stack
 
