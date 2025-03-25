@@ -8,7 +8,7 @@ I'm **Gakuru Alex**, an aspiring Python developer on a **365-day coding challeng
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=red)
 
 ## 🛠️ Tech Stack
 
