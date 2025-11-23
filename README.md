@@ -1,6 +1,6 @@
 # 👋 Hey there
 
-I'm **Gakuru Alex**, an aspiring Python developer on a **365-day coding challenge**, committed to coding every day in 2025 to improve my skills! 🚀
+I'm **Gakuru Alex**, an aspiring Python developer on a **daily coding challenge**, committed to coding every day to improve my skills! 🚀
 
 ## 🔥 GitHub Streak
 
