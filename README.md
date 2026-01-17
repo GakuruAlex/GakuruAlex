@@ -4,7 +4,7 @@ I'm **Gakuru Alex**, an aspiring Software Engineer on a **daily coding challenge
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats-tawny-six.vercel.app?user=GakuruAlex)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-tawny-six.vercel.app?user=GakuruAlex&theme=dark)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
