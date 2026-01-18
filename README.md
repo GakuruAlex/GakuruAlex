@@ -9,6 +9,7 @@ I'm **Gakuru Alex**, an aspiring Software Engineer on a **daily coding challenge
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=dark)
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
