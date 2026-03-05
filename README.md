@@ -8,7 +8,7 @@ I'm **Gakuru Alex**, an aspiring Software Engineer on a **daily coding challenge
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=dark&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=dark&cache_seconds=90000)
 
 ## 🛠️ Tech Stack
 
