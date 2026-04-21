@@ -15,13 +15,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GakuruAlex&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
