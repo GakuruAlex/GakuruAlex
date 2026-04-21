@@ -1,41 +1,38 @@
-# 👋 Hey there
+👋 Hey there, I'm Alex Gakuru
 
-I'm **Gakuru Alex**, an aspiring Software Engineer on a **daily coding challenge**, committed to coding every day to improve my skills! 🚀
+🚀 Aspiring Software Engineer | 💻 Daily Coding Challenger | 🧠 Lifelong Learner
 
-## 🔥 GitHub Streak
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Coding+Every+Day;Building+Projects;Learning+by+Doing;Consistency+is+Key+🚀&center=true&width=520&height=45"> </p>
+🔥 GitHub Activity
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GakuruAlex&theme=tokyonight&hide_border=true" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GakuruAlex&layout=compact&theme=tokyonight&hide_border=true" height="150"/> </p>
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,js,react,git,vscode,pycharm,html,css" /> </p>
+⚡ What I'm About
+<p align="center"> <img src="https://img.shields.io/badge/Code%20Everyday-✔️-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/Focus-Discipline-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Mindset-Growth-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Actively%20Learning-success?style=for-the-badge"> </p>
+🚀 Featured Project
+📌 FlashCard App
 
-[![GitHub Streak](https://github-readme-streak-stats-tawny-six.vercel.app?user=GakuruAlex&theme=dark)](https://git.io/streak-stats)
+A Python Tkinter application that helps users learn new languages using interactive flashcards.
 
-## 📊 GitHub Stats
+✨ Key Features:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GakuruAlex&theme=dark&show_icons=true&cache_seconds=90)
+📂 Load custom vocabulary from CSV files
+🔁 Reinforces memory with repetition
+🎯 Simple, distraction-free interface
 
-## 🛠️ Tech Stack
+🔗 Repository:
+https://github.com/GakuruAlex/FlashCardApp
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-## 🧰 Development Toolbox
-
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🚀 Projects
-
-Here are some of my project(s):
-
-- **FlashCard**:
-
-A Python application using Tkinter that helps you learn new languages by displaying flashcards.  You can customize the application with your own word lists stored in CSV files. [Flashcard](https://github.com/GakuruAlex/FlashCardApp)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexgakuru/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/G8l3x)
-
----
-💡 _Let's build something awesome together!_
+📈 Current Focus
+📚 Strengthening Data Structures & Algorithms
+🏗️ Building real-world backend & frontend projects
+🧪 Writing clean, testable code with Pytest
+🔁 Staying consistent with my daily coding challenge
+📫 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/alexgakuru/"> <img src="https://img.shields.io/badge/LinkedIn-Alex%20Gakuru-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://x.com/G8l3x"> <img src="https://img.shields.io/badge/Twitter-@G8l3x-black?style=for-the-badge&logo=twitter"> </a> </p>
+💡 Motto
+<p align="center"> <b>"Consistency compounds. Small daily improvements lead to big results."</b> </p>
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GakuruAlex&color=blueviolet&style=for-the-badge" /> </p
