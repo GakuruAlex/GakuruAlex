@@ -72,9 +72,6 @@ A Python Tkinter application that helps users learn new languages using interact
   <a href="https://www.linkedin.com/in/alexgakuru/">
     <img src="https://img.shields.io/badge/LinkedIn-Alex%20Gakuru-FF8C00?style=for-the-badge&logo=linkedin&labelColor=0D0D0D">
   </a>
-  <a href="https://x.com/G8l3x">
-    <img src="https://img.shields.io/badge/Twitter-@G8l3x-FFA500?style=for-the-badge&logo=twitter&labelColor=0D0D0D">
-  </a>
 </p>
 
 ---
