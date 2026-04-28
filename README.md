@@ -10,7 +10,7 @@
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GakuruAlex&theme=dark&ring=FF8C00&fire=FFB347&currStreakLabel=FFA500&background=0D0D0D&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=GakuruAlex&theme=dark&ring=FF8C00&fire=FFB347&currStreakLabel=FFA500&background=0D0D0D&hide_border=true" />
 </p>
 
 ---
