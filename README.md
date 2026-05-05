@@ -10,15 +10,15 @@
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GakuruAlex" />
+  <img src="https://streak-stats.demolab.com?user=GakuruAlex&theme=dark&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GakuruAlex&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GakuruAlex&layout=compact&theme=dark&title_color=FF8C00&text_color=EAEAEA&bg_color=0D0D0D&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=dark" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GakuruAlex&layout=compact&theme=dark" height="160"/>
 </p>
 
 ---
