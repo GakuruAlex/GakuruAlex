@@ -10,7 +10,7 @@
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GakuruAlex&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=GakuruAlex&theme=dark" />
 </p>
 
 ---
