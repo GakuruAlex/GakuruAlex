@@ -40,11 +40,11 @@
 ###
 
 <div align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://streak-stats.demolab.com?user=GakuruAlex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <!-- Dynamic GitHub Trophies API (No Actions Required) -->
-  <img src="https://github-profile-trophy-alpha.vercel.app/?username=GakuruAlex&theme=dark&column=3&margin-w=15" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=GakuruAlex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  
+  <br><br> <img src="https://github-profile-trophy-alpha.vercel.app/?username=GakuruAlex&theme=dark&column=3&margin-w=15" height="150" alt="trophy graph" />
 </div>
+
 ---
 
 ### 🐍 Contribution Snake
