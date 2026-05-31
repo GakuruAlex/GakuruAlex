@@ -47,8 +47,8 @@
 
 ## 🔥 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=GakuruAlex&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=GakuruAlex&layout=compact&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.com/api?username=GakuruAlex&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.com/api/top-langs/?username=GakuruAlex&layout=compact&theme=dark" height="160"/>
 </p>
 
 ---
