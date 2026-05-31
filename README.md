@@ -1,5 +1,12 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+# 👋 Hey there, I'm Alex Gakuru
 
+🚀 Aspiring Software Engineer | 💻 Daily Coding Challenger | 🧠 Lifelong Learner   
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Coding+Every+Day;Building+Projects;Learning+by+Doing;Consistency+is+Key+🚀&center=true&width=520&height=45&color=FFB347">
+</p>
+
+---
 ###
 
 <div align="center">
@@ -34,24 +41,23 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GakuruAlex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-# 👋 Hey there, I'm Alex Gakuru
-
-🚀 Aspiring Software Engineer | 💻 Daily Coding Challenger | 🧠 Lifelong Learner   
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Coding+Every+Day;Building+Projects;Learning+by+Doing;Consistency+is+Key+🚀&center=true&width=520&height=45&color=FFB347">
-</p>
-
----
+</d
 
 ## 🔥 GitHub Activity & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=dark" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GakuruAlex&layout=compact&theme=dark" height="160"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GakuruAlex/GakuruAlex/snake-output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GakuruAlex/GakuruAlex/snake-output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/GakuruAlex/GakuruAlex/snake-output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
