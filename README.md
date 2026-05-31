@@ -1,6 +1,46 @@
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alexgakuru/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FF8C00&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GakuruAlex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
 # 👋 Hey there, I'm Alex Gakuru
 
-🚀 Aspiring Software Engineer | 💻 Daily Coding Challenger | 🧠 Lifelong Learner  
+🚀 Aspiring Software Engineer | 💻 Daily Coding Challenger | 🧠 Lifelong Learner   
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Coding+Every+Day;Building+Projects;Learning+by+Doing;Consistency+is+Key+🚀&center=true&width=520&height=45&color=FFB347">
@@ -8,29 +48,10 @@
 
 ---
 
-## 🔥 GitHub Activity
-<p align="center">
- <img src="https://streak-stats.demolab.com/?user=GakuruAlex" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🔥 GitHub Activity & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GakuruAlex&show_icons=true&theme=dark" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GakuruAlex&layout=compact&theme=dark" height="160"/>
-
-</p>
-
----
-
-## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, HTML, CSS  
-**Frameworks:** Django, React  
-**Tools & IDEs:** Git, VS Code, PyCharm  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,git,vscode,pycharm,html,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GakuruAlex&layout=compact&theme=dark" height="160"/>
 </p>
 
 ---
@@ -48,15 +69,13 @@
 ---
 
 ## 🚀 Featured Project
-### 📌 FlashCard App
+### 📌 [FlashCard App](https://github.com/GakuruAlex/FlashCardApp)
 A Python Tkinter application that helps users learn new languages using interactive flashcards.
 
 **✨ Key Features:**
 - 📂 Load custom vocabulary from CSV files  
 - 🔁 Reinforces memory with repetition  
 - 🎯 Simple, distraction-free interface  
-
-🔗 **Repository:** [FlashCardApp](https://github.com/GakuruAlex/FlashCardApp)
 
 ---
 
@@ -65,15 +84,6 @@ A Python Tkinter application that helps users learn new languages using interact
 - 🏗️ Building real-world backend & frontend projects  
 - 🧪 Writing clean, testable code with Pytest  
 - 🔁 Staying consistent with my daily coding challenge  
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexgakuru/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alex%20Gakuru-FF8C00?style=for-the-badge&logo=linkedin&labelColor=0D0D0D">
-  </a>
-</p>
 
 ---
 
