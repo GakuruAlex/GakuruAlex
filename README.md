@@ -41,7 +41,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GakuruAlex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-    <img src="https://raw.githubusercontent.com/GakuruAlex/GakuruAlex/snake-output/trophy.svg" height="150" alt="trophy graph"  />
+  
+  <img src="https://raw.githubusercontent.com/GakuruAlex/GakuruAlex/snake-output/trophy.svg" height="150" alt="trophy graph"  />
 
 </div>
 
