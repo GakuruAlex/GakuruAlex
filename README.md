@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GakuruAlex&region=en&mode=daily&theme=dark&hide_border=false&border_radius=5" width="55%" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=GakuruAlex&region=en&mode=daily&theme=lightk&hide_border=false&border_radius=5" width="55%" alt="streak graph" />
   
   <br><br> <img src="https://github-profile-trophy-alpha.vercel.app/?username=GakuruAlex&column=3&margin-w=15" width="45%" alt="trophy graph" />
 </div>
